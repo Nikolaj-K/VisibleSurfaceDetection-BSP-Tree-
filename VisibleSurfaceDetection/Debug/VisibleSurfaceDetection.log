@@ -1,0 +1,34 @@
+﻿  ObjLoader.cpp
+  main.cpp
+c:\users\paritosh\source\repos\visiblesurfacedetection\visiblesurfacedetection\main.cpp(300): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\paritosh\source\repos\visiblesurfacedetection\visiblesurfacedetection\main.cpp(303): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\paritosh\source\repos\visiblesurfacedetection\visiblesurfacedetection\main.cpp(306): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\paritosh\source\repos\visiblesurfacedetection\visiblesurfacedetection\main.cpp(309): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\paritosh\source\repos\visiblesurfacedetection\visiblesurfacedetection\main.cpp(183): warning C4305: 'initializing': truncation from 'double' to 'float'
+  c:\users\paritosh\source\repos\visiblesurfacedetection\visiblesurfacedetection\main.cpp(178): note: while compiling class template member function 'SIDE BinarySearchTree<Triangles>::Node::ClassifyPolygons(const Comparable &)'
+          with
+          [
+              Comparable=Triangles
+          ]
+  c:\users\paritosh\source\repos\visiblesurfacedetection\visiblesurfacedetection\main.cpp(139): note: see reference to function template instantiation 'SIDE BinarySearchTree<Triangles>::Node::ClassifyPolygons(const Comparable &)' being compiled
+          with
+          [
+              Comparable=Triangles
+          ]
+  c:\users\paritosh\source\repos\visiblesurfacedetection\visiblesurfacedetection\main.cpp(132): note: while compiling class template member function 'void BinarySearchTree<Triangles>::BuildTree(BinarySearchTree<Triangles>::Node *,std::vector<Triangles,std::allocator<_Ty>> &)'
+          with
+          [
+              _Ty=Triangles
+          ]
+  c:\users\paritosh\source\repos\visiblesurfacedetection\visiblesurfacedetection\main.cpp(92): note: see reference to function template instantiation 'void BinarySearchTree<Triangles>::BuildTree(BinarySearchTree<Triangles>::Node *,std::vector<Triangles,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=Triangles
+          ]
+  c:\users\paritosh\source\repos\visiblesurfacedetection\visiblesurfacedetection\main.cpp(79): note: while compiling class template member function 'BinarySearchTree<Triangles>::BinarySearchTree(void)'
+  c:\users\paritosh\source\repos\visiblesurfacedetection\visiblesurfacedetection\main.cpp(75): note: see reference to function template instantiation 'BinarySearchTree<Triangles>::BinarySearchTree(void)' being compiled
+  c:\users\paritosh\source\repos\visiblesurfacedetection\visiblesurfacedetection\main.cpp(75): note: see reference to class template instantiation 'BinarySearchTree<Triangles>' being compiled
+  Generating Code...
+c:\users\paritosh\source\repos\visiblesurfacedetection\visiblesurfacedetection\objloader.cpp(238): warning C4715: 'LoadModel': not all control paths return a value
+  VisibleSurfaceDetection.vcxproj -> c:\users\paritosh\source\repos\VisibleSurfaceDetection\Debug\VisibleSurfaceDetection.exe
+  VisibleSurfaceDetection.vcxproj -> c:\users\paritosh\source\repos\VisibleSurfaceDetection\Debug\VisibleSurfaceDetection.pdb (Partial PDB)
