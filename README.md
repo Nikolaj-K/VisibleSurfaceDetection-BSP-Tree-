@@ -1,5 +1,8 @@
-# VisibleSurfaceDetection-BSP-Tree-
-Implementation of BSP tree and other algorithms used for visibility determination
-This is an attempt to write simplistic version of BSP tree and partition the space.
-Render the object is back to front or front to back order.
-Here we chose random polygon from the list as starting point for partition sometimes called as auto partition.
+# VisibleSurfaceDetection-BSP-Tree
+This is an implementation of BSP tree and other algorithms used for visibility determination.
+
+It is an attempt to write a simplistic version of a BSP tree and partition the space.
+Rendering order for the object is either back to front or front to back.
+
+We chose a random polygon from the list as starting point for partition. 
+This sometimes also called an auto partition.
